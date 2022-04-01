@@ -59,11 +59,13 @@ __Who:__
 __What:__
 
 •	Earlier Many Companies were inefficient due to prolonged time for entering N numbers of employee records manually.
+
 •	This project gives the opportunity to enter all the required information and deploy into the system easily
 
 __When:__
 
 •	As the business of the organisation increases number of employees increases .
+
 •	With the increases of employee their data management require.
 
 __Where:__
