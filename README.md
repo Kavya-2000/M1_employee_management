@@ -69,8 +69,6 @@ __How:__
 
                 | 
 
-
-
 ## Challenges Faced and How Was It Overcome
 
 
