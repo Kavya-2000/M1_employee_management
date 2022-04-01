@@ -3,17 +3,15 @@
 
 # BADGES
 
-[![Codacy Badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/9dbb30fac3444061a7b7237e4eee18be)](https://www.codacy.com/gh/Kavya-2000/mini_project_employee_management/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kavya-2000/mini_project_employee_management&amp;utm_campaign=Badge_Grade)
+CODACY
 
-## CODE QUALITY 
+* Codacy - Static Code Analysis
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9dbb30fac3444061a7b7237e4eee18be)](https://www.codacy.com/gh/Kavya-2000/mini_project_employee_management/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kavya-2000/mini_project_employee_management&amp;utm_campaign=Badge_Grade)
 
+CODIGA
+
+* Codiga - Static Analysis
 ![Code Quality Score](https://api.codiga.io/project/32312/score/svg)
-
-## CODE GRADE
-
-![Code Grade](https://api.codiga.io/project/32312/status/svg)
-
-
 
 
 
@@ -30,17 +28,26 @@ Also to increase the readability, I have broken the application in different fun
 __Objectives:__
 
 •	This project aims to simplify the task of maintaining records of the employees of Company.
-•	To develop an well-designed database to store employee information. 
-•	Provides full functional reports to management of Company. 
-•	The objective of this project is to provide a comprehensive approach towards the management of employee information.
 
-__Cost and Features__
+•	To develop an well-designed database to store employee information.
+
+•	Provides full functional reports to management of Company. 
+
+•	The objective of this project is to provide a comprehensive approach towards the management of employee information.
+ 
+ 
+__Cost and Features:__
 
 •	Previously the records management was done manually.
+
 •	Proper Login Screen (Invisible Password Typing).
+
 •	Password Protected.
+
 •	Encrypted File (Binary).
+
 •	Easily Add, Delete, Modify Records.
+
 •	Various Essential Queries.
 
 ## 4W's and 1'H
@@ -67,8 +74,7 @@ __How:__
 
 •	This project takes in all the input values and yields out the management parameters.
 
-                | 
-
+               
 ## Challenges Faced and How Was It Overcome
 
 
