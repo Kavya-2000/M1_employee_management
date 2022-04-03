@@ -1,14 +1,4 @@
-/**
- * @file main.c
- * @author your name (you@domain.com)
- * @brief 
- * @version 0.11
- *
- * @date 2022-03-06
- * 
- * @copyright Copyright (c) 2022
- * 
- */
+
 #include "main.h"
 
     char empname[40]; /// string to store name of the employee
