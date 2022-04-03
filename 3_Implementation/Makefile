@@ -1,4 +1,4 @@
-PROJECT_NAME = Stepin-Employee-Record-System
+PROJECT_NAME = Employee_management
 
 #All Source code file
 SRC = main.c\
