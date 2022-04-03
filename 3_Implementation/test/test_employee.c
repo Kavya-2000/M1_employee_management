@@ -1,13 +1,3 @@
-/**
- * @file tset_employee.c
- * @author raaga.vardhini@ltts.com
- * @brief 
- * @version 0.1
- * @date 2021-09-08
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #include "unity.h"
 #include <main.h>
 
